@@ -21,7 +21,7 @@ python -m venv .venv
 .\.venv\Scripts\python.exe -m jupyterlab
 ```
 
-Abra `gabarito.ipynb`, selecione o kernel do ambiente criado e execute as células em ordem. No VS Code, também é possível abrir o notebook com as extensões Python e Jupyter, selecionando `.venv` como kernel.
+Abra `analise_cancelamentos.ipynb`, selecione o kernel do ambiente criado e execute as células em ordem. No VS Code, também é possível abrir o notebook com as extensões Python e Jupyter, selecionando `.venv` como kernel.
 
 O arquivo `cancelamentos.csv` deve estar na pasta do projeto. A leitura usa um caminho relativo; execute o notebook a partir dessa pasta.
 
@@ -29,7 +29,7 @@ O arquivo `cancelamentos.csv` deve estar na pasta do projeto. A leitura usa um c
 
 | Arquivo | Descrição |
 | --- | --- |
-| `gabarito.ipynb` | Análise completa, com explicações e gráficos |
+| `analise_cancelamentos.ipynb` | Análise completa, com explicações e gráficos |
 | `cancelamentos.csv` | Base utilizada na aula |
 | `requirements.txt` | Dependências para executar o projeto |
 
