@@ -1,0 +1,9 @@
+# Ignora todos os arquivos e pastas da raiz por padrao.
+/*
+
+# Arquivos que fazem parte do projeto no GitHub.
+!/.gitignore
+!/cancelamentos.csv
+!/gabarito.ipynb
+!/README.md
+!/requirements.txt
